@@ -7,7 +7,7 @@ This repository showcases selected projects in quantitative finance, asset and r
 
 ### 📈 Mutual Fund Alpha Prediction
 Predicting mutual fund alpha using panel regressions.
-- Data cleaning, regression modeling in R
+- Regression modeling in R
 - Link: [View project](projects/mutual-fund-alpha-prediction)
 
 ### 🔋 Investment Case — Energy Sector
