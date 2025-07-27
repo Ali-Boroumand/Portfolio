@@ -15,4 +15,4 @@ DCF-based investment case in renewable energy, with scenario testing.
 - Link: [View project](projects/investment-case-energy-sector)
 
 ## 📄 Resume
-[Ali_Boroumand_Resume.pdf](Resume/Ali_Boroumand_Resume.pdf)
+[Ali_Boroumand_Resume.pdf](Ali_Boroumand_Resume.pdf)
